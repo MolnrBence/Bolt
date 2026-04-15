@@ -1,1 +1,5 @@
-# Bolt
+Egyre többen fedezik fel a manga és képregények világát, ezért fontos, hogy legyen egy megbízható, könnyen elérhető online webalkalmazás, ahol széles választékból vásárolhatják meg kedvenceiket. Egy jól működő online manga és képregénybolt nemcsak a legnépszerűbb és ritkább kiadványokat kínálja, hanem gyors és kényelmes vásárlási élményt is nyújt, otthonról vagy akár útközben. Az élet rohanó tempója miatt sokak számára az online vásárlás a legjobb megoldás, hiszen így időt és energiát takaríthatnak meg.
+Termékeink között több féle kategóriában válogathatnak a vásárlóink, ritkább és gyakrabban megtalálható példányok között is. Boltunk kellemes látogatóhelye lehet gyűjteni/olvasni kezdőknek akik most vetnék bele magukat egyes kalandok rejtelmeibe vagy már elkötelezett gyűjtők számára is.
+Webshopunk esélyt ad arra is hogy értékeljenek minket az online felületen keresztül és megírják velünk kapcsolatban felmerülő panaszukat.
+Összességében projektünk egy jól működő online manga és képregény webshop azoknak akik szeretnének egyszerűen és gyorsan hozzájutni minőségi kiadványokhoz.
+Választásunk azért erre esett, mert szeretnénk megkönnyíteni a vásárlók dolgát, hogy biztonságosan vásárolhassanak értékes és ritka termékeink közül, anélkül, hogy átvernék őket és pénzlehúzás áldozatai legyenek.
